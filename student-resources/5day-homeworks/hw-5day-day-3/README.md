@@ -127,7 +127,7 @@ violet
 
 ------------
 
-## Problem 4: Three Commas
+## Problem 4: Tres Comas
 
 ### Skill you're practicing: Formatting numbers.
 
